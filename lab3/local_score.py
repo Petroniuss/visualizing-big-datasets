@@ -253,12 +253,12 @@ def viz_qa(
     # plt.tight_layout()
 
     # Showing the figure
-    fig.savefig(
-        "/Users/pwojtyczek/Private/visualizing-big-datasets/lab3/results/{}.png".format(
-            tit
-        ),
-        dpi=fig.dpi,
-    )
+    # fig.savefig(
+    #     "/Users/pwojtyczek/Private/visualizing-big-datasets/lab3/results/{}.png".format(
+    #         tit
+    #     ),
+    #     dpi=fig.dpi,
+    # )
 
 
 class LocalMetric:
